@@ -2,7 +2,7 @@
 Remove wait time when using Juupine Geco build plates on Bambu Lab printers.
 
 
-I'll clean this up later... for now....
+I'll clean this up later... for now.... MAchine Start G-Code.
 <pre>
 Find: M190 S[bed_temperature_initial_layer_single] ;wait for bed temp 
 </pre>
